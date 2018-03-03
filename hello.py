@@ -1,1 +1,1 @@
-wjhbflwbelfn:
+print("wjhbflwbelfn:")
